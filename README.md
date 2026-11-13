@@ -460,17 +460,6 @@ The chain still advances in order under event-driven, stateless sessions. That i
 
 ---
 
-## Community
-
-Follow the WeChat account **SecSentry** and send a message there to join the group.
-
-<div align="center">
-
-<img src="screenshots/wx.png" alt="WeChat account SecSentry" width="480" />
-
-</div>
-
----
 ## References
 
 https://github.com/oritera/Cairn
